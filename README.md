@@ -4,7 +4,7 @@
 <h3 align="left"> Critical jobs</h3>
 <ul>
   <li><a href="https://careers.kms-technology.com/job/senior-test-engineer-qa-qc-based-in-da-nang-743999761845659">Senior manual test</a></li>
-  <li><a href="https://careers.kms-technology.com/job/fresher-test-engineer-qa-qc-tester-based-in-da-nang-743999761326211">Fresher Test</a> </li>
+  <li><a href="https://careers.kms-technology.com/job/fresher-test-engineer-qa-qc-tester-based-in-da-nang-743999762579237/">Fresher Test</a> </li>
   <li><a href="https://careers.kms-technology.com/job/fresher-nodejs-software-engineer-based-in-da-nang-743999761325250">Fresher Nodejs</a> </li>
   <li><a href="https://careers.kms-technology.com/job/fresher-java-software-engineer-based-in-da-nang-743999761497171">Fresher Java</a>  
 </ul>
