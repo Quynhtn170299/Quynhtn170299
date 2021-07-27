@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Quynh</h1>
-<h3 align="center">I'm a IT recruiter looking for talents in Da Nang</h3>
+<h3 align="center">I'm a IT recruiter looking for talents in HCM and Da Nang</h3>
 
 <h3 align="left"> Critical jobs</h3>
 <ul>
