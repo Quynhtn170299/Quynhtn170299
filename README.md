@@ -3,8 +3,9 @@
 
 <h3 align="left"> Critical jobs</h3>
 <ul>
-  <li><a href="https://careers.kms-technology.com/job/test-engineer-intern-qa-qc-tester-kobiton-743999771852220">Test Intern</a></li>
-  <li><a href="https://careers.kms-technology.com/job/full-stack-web-software-engineer-intern-kobiton-743999761487088">Full-stack web intern</a></li>
+  <li><a href="https://careers.kms-technology.com/job/test-engineer-qa-qc-tester-kobiton-743999788865765">Test Engineer</a></li>
+  <li><a href="https://careers.kms-technology.com/job/fullstack-mobile-reactjs-nodejs-developer-kobiton-743999788865924">Full-stack (Mobile, Nodejs) Developer</a></li>
+  <li><a href="https://careers.kms-technology.com/job/fresher-devops-software-engineer-kobiton-743999761488630">Fresher Devops</a></li>
 </ul>
 
 <p>Please find the open jobs here: https://careers.kms-technology.com/job/</p>
