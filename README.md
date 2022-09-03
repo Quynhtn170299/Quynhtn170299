@@ -2,11 +2,6 @@
 <h3 align="center">I'm an IT recruiter looking for talents in HCM (Viet Nam)</h3>
 
 <h3 align="left"> Critical jobs</h3>
-<ul>
-  <li><a href="https://careers.kms-technology.com/job/test-engineer-qa-qc-tester-kobiton-743999788865765">Test Engineer</a></li>
-  <li><a href="https://careers.kms-technology.com/job/senior-cloudops-engineer-kobiton-743999825514349">Senior CloudOps Engineer</a></li>
-  <li><a href="https://careers.kms-technology.com/job/fresher-blockchain-software-engineer-flight-time-743999825519275">Fresher Blockchain Software Engineer</a></li>
-</ul>
 
 <p>Please find the open jobs here: https://careers.kms-technology.com/job/</p>
 
